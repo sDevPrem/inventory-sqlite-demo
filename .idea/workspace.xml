@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0006cea5-a846-49de-8943-db39620d9681" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[bc0bd24e7d15]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/src/main/res/values/themes.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BHEIcU4ETTN9AemWuVw1IOgGlF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DEBUGGABLE_DEVICE": "xiaomi-redmi_5a-bc0bd24e7d15",
+    "DEBUGGABLE_PROCESS": "com.example.inventory",
+    "DEBUGGER_ID": "Auto",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHOW_ALL_PROCESSES": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/Development/Android Dev/Finished/Inventory",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.do.not.copy.http.proxy.settings.to.gradle": "true"
+  }
+}]]></component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.576494629">
+      <recent name="com.example.inventory" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Inventory.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0006cea5-a846-49de-8943-db39620d9681" name="Default Changelist" comment="" />
+      <created>1656554532104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656554532104</updated>
+    </task>
+    <task id="LOCAL-00081" summary="check if image is present before loading">
+      <created>1658031813667</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1658031813667</updated>
+    </task>
+    <task id="LOCAL-00082" summary="get Bitmap of the thumbnail using a separate method">
+      <created>1658032148524</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1658032148524</updated>
+    </task>
+    <task id="LOCAL-00083" summary="get Bitmap of the itemImage using a separate method">
+      <created>1658032662687</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1658032662687</updated>
+    </task>
+    <task id="LOCAL-00084" summary="get Bitmap of the itemImage using a separate method">
+      <created>1658033319827</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1658033319827</updated>
+    </task>
+    <task id="LOCAL-00085" summary="make item image corner round">
+      <created>1658035938253</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1658035938253</updated>
+    </task>
+    <task id="LOCAL-00086" summary="fix: not updating image">
+      <created>1658036064799</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1658036064799</updated>
+    </task>
+    <task id="LOCAL-00087" summary="do all image operation on another thread">
+      <created>1658122582969</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1658122582969</updated>
+    </task>
+    <task id="LOCAL-00088" summary="do all image operation on another thread">
+      <created>1658122607434</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1658122607434</updated>
+    </task>
+    <task id="LOCAL-00089" summary="use uri to load image from gallery">
+      <created>1658127927097</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1658127927097</updated>
+    </task>
+    <task id="LOCAL-00090" summary="use uri to load image from gallery">
+      <created>1658128366711</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1658128366711</updated>
+    </task>
+    <task id="LOCAL-00091" summary="decode Bitmap only when saving item is saved">
+      <created>1658492700861</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1658492700862</updated>
+    </task>
+    <task id="LOCAL-00092" summary="decode Bitmap only when saving item is saved">
+      <created>1658492892366</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1658492892367</updated>
+    </task>
+    <task id="LOCAL-00093" summary="decode Bitmap only when item is being saved">
+      <created>1658493067840</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1658493067840</updated>
+    </task>
+    <task id="LOCAL-00094" summary="define ImageView dimensions in dimen file">
+      <created>1658565843300</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1658565843300</updated>
+    </task>
+    <task id="LOCAL-00095" summary="define ImageView dimensions in dimen file">
+      <created>1658566057214</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1658566057214</updated>
+    </task>
+    <task id="LOCAL-00096" summary="feat: receive image from other apps">
+      <created>1658567955333</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1658567955333</updated>
+    </task>
+    <task id="LOCAL-00097" summary="feat: receive image from other apps">
+      <created>1658567961512</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1658567961512</updated>
+    </task>
+    <task id="LOCAL-00098" summary="create img_name column in db">
+      <created>1658634366121</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1658634366121</updated>
+    </task>
+    <task id="LOCAL-00099" summary="set default values">
+      <created>1658722494240</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1658722494240</updated>
+    </task>
+    <task id="LOCAL-00100" summary="validating values">
+      <created>1658723445396</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1658723445396</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Merge branch 'sqlite'">
+      <created>1658724172456</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1658724172456</updated>
+    </task>
+    <task id="LOCAL-00102" summary="validating values">
+      <created>1658724220383</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1658724220383</updated>
+    </task>
+    <task id="LOCAL-00103" summary="remove default values">
+      <created>1658724549584</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1658724549584</updated>
+    </task>
+    <task id="LOCAL-00104" summary="remove default values">
+      <created>1658724656199</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1658724656199</updated>
+    </task>
+    <task id="LOCAL-00105" summary="validating itemName">
+      <created>1658725640608</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1658725640608</updated>
+    </task>
+    <task id="LOCAL-00106" summary="validating itemName">
+      <created>1658725646348</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1658725646348</updated>
+    </task>
+    <task id="LOCAL-00107" summary="insert 0 values if quantity or price not specified">
+      <created>1658726105269</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1658726105269</updated>
+    </task>
+    <task id="LOCAL-00108" summary="show exit confirmation dialog if values change">
+      <created>1658730847575</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1658730847576</updated>
+    </task>
+    <task id="LOCAL-00109" summary="show exit confirmation dialog if values change">
+      <created>1658731050973</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1658731050973</updated>
+    </task>
+    <task id="LOCAL-00110" summary="show exit confirmation dialog if values change">
+      <created>1658731196420</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1658731196420</updated>
+    </task>
+    <task id="LOCAL-00111" summary="feat: give sale button its functionality">
+      <created>1658900319418</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1658900319418</updated>
+    </task>
+    <task id="LOCAL-00112" summary="cache thumbnails">
+      <created>1658901286008</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1658901286008</updated>
+    </task>
+    <task id="LOCAL-00113" summary="func: delete all items">
+      <created>1658906062605</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1658906062605</updated>
+    </task>
+    <task id="LOCAL-00114" summary="take persistable permission on gallery images uri">
+      <created>1658906766507</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1658906766507</updated>
+    </task>
+    <task id="LOCAL-00115" summary="take persistable permission on gallery images uri">
+      <created>1658906929722</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1658906929722</updated>
+    </task>
+    <task id="LOCAL-00116" summary="feat: contact supplier by email or call">
+      <created>1658982850863</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1658982850864</updated>
+    </task>
+    <task id="LOCAL-00117" summary="feat: contact supplier by email or call">
+      <created>1658984648756</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1658984648756</updated>
+    </task>
+    <task id="LOCAL-00118" summary="remove text change listeners before setting text programmatically">
+      <created>1658984663637</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1658984663637</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Increase the gradle version">
+      <created>1682062700181</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1682062700181</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Increase the gradle version">
+      <created>1682062717781</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1682062717781</updated>
+    </task>
+    <task id="LOCAL-00121" summary="Increase gradle version">
+      <created>1682062730116</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1682062730116</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Reformat code">
+      <created>1682063196556</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1682063196556</updated>
+    </task>
+    <task id="LOCAL-00123" summary="First save the image then the inventory in the db">
+      <created>1682065577617</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1682065577617</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Initial commit">
+      <created>1682066133828</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1682066133828</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Initial commit">
+      <created>1682067490749</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1682067490749</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Initial commit">
+      <created>1682067523916</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1682067523916</updated>
+    </task>
+    <task id="LOCAL-00127" summary="Initial commit">
+      <created>1682068509057</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1682068509057</updated>
+    </task>
+    <task id="LOCAL-00128" summary="Initial commit">
+      <created>1682068660106</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1682068660106</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Initial commit">
+      <created>1682069020203</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1682069020203</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="use uri to load images" />
+    <MESSAGE value="use uri to load image from gallery" />
+    <MESSAGE value="decode Bitmap only when saving item is saved" />
+    <MESSAGE value="decode Bitmap only when item is being saved" />
+    <MESSAGE value="define ImageView dimensions in dimen file" />
+    <MESSAGE value="feat: receive image from other apps" />
+    <MESSAGE value="create img_name column in db" />
+    <MESSAGE value="set default values" />
+    <MESSAGE value="Merge branch 'sqlite'" />
+    <MESSAGE value="validating values" />
+    <MESSAGE value="remove default values" />
+    <MESSAGE value="validating itemName" />
+    <MESSAGE value="insert 0 values if quantity or price not specified" />
+    <MESSAGE value="show exit confirmation dialog if values change" />
+    <MESSAGE value="feat: give sale button its functionality" />
+    <MESSAGE value="cache thumbnails" />
+    <MESSAGE value="func: delete all items" />
+    <MESSAGE value="take persistable permission on gallery images uri" />
+    <MESSAGE value="feat: contact supplier by email or call" />
+    <MESSAGE value="remove text change listeners before setting text programmatically" />
+    <MESSAGE value="Increase the gradle version" />
+    <MESSAGE value="Increase gradle version" />
+    <MESSAGE value="Reformat code" />
+    <MESSAGE value="First save the image then the inventory in the db" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="android.database.BulkCursorToCursorAdaptor" memberName="mColumns" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="imageView" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

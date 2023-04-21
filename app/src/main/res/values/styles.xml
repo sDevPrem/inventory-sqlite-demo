@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CategoryStyle">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:paddingTop">16dp</item>
+    </style>
+    <style name="EditorFieldStyle">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginLeft">12dp</item>
+    </style>
+    <style name="ImageProductStyle">
+        <item name="android:layout_height">@dimen/details_item_img_height</item>
+        <item name="android:layout_width">@dimen/details_item_img_width</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name ="android:layout_marginLeft">5dp</item>
+        <item name ="android:layout_marginTop">10dp</item>
+        <item name ="android:layout_marginBottom">10dp</item>
+    </style>
+    <style name="AddProductPhotoButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_below">@id/image_product</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginLeft">5dp</item>
+    </style>
+    <style name="cornerCurve20Percent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">15%</item>
+    </style>
+</resources>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:descendantFocusability="blocksDescendants"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+<RelativeLayout
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/list_item_image"
+        android:layout_width="@dimen/list_item_img_width"
+        android:layout_height="@dimen/list_item_img_height"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="15dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_baseline_image_24"
+        app:shapeAppearanceOverlay="@style/cornerCurve20Percent" />
+
+    <TextView
+        android:id="@+id/category_item_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="10dp"
+        android:layout_toEndOf="@id/list_item_image"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textAppearance="?android:textAppearanceListItem"
+        tools:text="Item Name" />
+
+    <TextView
+        android:id="@+id/category_quantity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/category_item_name"
+        android:layout_marginTop="5dp"
+        android:layout_toEndOf="@id/list_item_image"
+        android:text="@string/prefix_stock"
+        android:textAppearance="?android:textAppearanceListItemSecondary"
+        android:textColor="@color/empty_stock_color" />
+
+    <TextView
+        android:id="@+id/quantity_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/category_item_name"
+        android:layout_marginTop="5dp"
+        android:layout_toEndOf="@id/category_quantity"
+        android:ellipsize="end"
+        android:maxEms="5"
+        android:maxLines="1"
+        tools:text="0"
+        android:textAppearance="?android:textAppearanceListItemSecondary"
+        android:textColor="@color/empty_stock_color"
+        />
+
+    <TextView
+        android:id="@+id/category_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/category_quantity"
+        android:layout_marginTop="5dp"
+        android:layout_toEndOf="@id/list_item_image"
+        android:text="@string/prefix_price"
+        android:textAppearance="?android:textAppearanceListItemSecondary"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/category_quantity"
+        android:layout_marginTop="5dp"
+        android:layout_toEndOf="@id/category_price"
+        android:maxEms="5"
+        android:maxLines="1"
+        tools:text="0"
+        android:textAppearance="?android:textAppearanceListItemSecondary"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/item_sale_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/price"
+        android:layout_alignEnd="@id/price"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="10dp"
+        android:text="@string/sale_btn"
+        android:textAppearance="?android:textAppearanceButton" />
+    </RelativeLayout>
+</RelativeLayout>

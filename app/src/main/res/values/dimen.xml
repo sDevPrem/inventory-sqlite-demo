@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "details_item_img_width">140dp</dimen>
+    <dimen name = "details_item_img_height">140dp</dimen>
+    <dimen name = "list_item_img_width">75dp</dimen>
+    <dimen name = "list_item_img_height">75dp</dimen>
+</resources>

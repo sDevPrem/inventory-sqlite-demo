@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#F34141</color>
+    <color name="colorPrimaryDark">#BF1717</color>
+    <color name="colorAccent">#F34141</color>
+    <color name="empty_stock_color">#FF0000</color>
+    <color name="stockColor">#16CE16</color>
+</resources>

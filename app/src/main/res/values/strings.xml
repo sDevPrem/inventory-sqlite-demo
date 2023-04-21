@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="photo_btn_add">Add Photo</string>
+    <string name="photo_btn_change">Change Photo</string>
+    <string name="hint_item_name">Product Name</string>
+    <string name="category_price">Price :</string>
+    <string name="category_quantity">Quantity :</string>
+    <string name="category_description">Product Description</string>
+    <string name="hint_description">Description</string>
+    <string name="supplier_contact_heading">Supplier Contact</string>
+    <string name="category_supplier_phone">Phone:</string>
+    <string name="hint_supplier_phone">0123456788</string>
+    <string name="hint_supplier_email">supplier@company.com</string>
+    <string name="category_supplier_email">Email:</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete_item">Delete Item</string>
+    <string name="prefix_stock">In Stock:</string>
+    <string name="prefix_price">Price: ₹</string>
+    <string name="sale_btn">Sale</string>
+    <string name="empty_text">Click + button to add items</string>
+    <string name="delete_item_msg">Delete this Item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="discard_dialog_msg">Discard changes and exit?</string>
+    <string name="discard_change">Discard change</string>
+    <string name="keep_editing">Keep editing</string>
+    <string name="delete_all">Delete all items</string>
+    <string name="delete_all_item">Delete all items?</string>
+    <string name="contact_supplier_msg">Contact Supplier By:</string>
+    <string name="supplier_contact_call">Call</string>
+    <string name="supplier_contact_email">Email</string>
+    <string name="no_supplier_contact_msg">Supplier contact info is not provided</string>
+</resources>
