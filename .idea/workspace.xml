@@ -13,7 +13,18 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0006cea5-a846-49de-8943-db39620d9681" name="Default Changelist" comment="Add screenshot" />
+    <list default="true" id="0006cea5-a846-49de-8943-db39620d9681" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +50,6 @@
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/.." value="master" />
-        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,8 +87,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "SHOW_ALL_PROCESSES": "false",
+    "android.gradle.sync.needed": "true",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/Screen shots/inventory-sqlite-demo",
+    "last_opened_file_path": "D:/Development/Android Dev/Finished/Inventory",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.0",
@@ -90,15 +101,8 @@
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\Screen shots\inventory-sqlite-demo" />
-      <recent name="C:\Users\user\Desktop\Screen shots\inventory-sqlite-demo\app" />
-    </key>
     <key name="android.template.576494629">
       <recent name="com.example.inventory" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\Screen shots\inventory-sqlite-demo\screenshot" />
     </key>
   </component>
   <component name="RunManager">
@@ -167,6 +171,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656554532104</updated>
+    </task>
+    <task id="LOCAL-00081" summary="check if image is present before loading">
+      <created>1658031813667</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1658031813667</updated>
+    </task>
+    <task id="LOCAL-00082" summary="get Bitmap of the thumbnail using a separate method">
+      <created>1658032148524</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1658032148524</updated>
     </task>
     <task id="LOCAL-00083" summary="get Bitmap of the itemImage using a separate method">
       <created>1658032662687</created>
@@ -497,21 +515,7 @@
       <option name="project" value="LOCAL" />
       <updated>1682069020203</updated>
     </task>
-    <task id="LOCAL-00130" summary="Update git ignore">
-      <created>1684209934374</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1684209934398</updated>
-    </task>
-    <task id="LOCAL-00131" summary="Add screenshot">
-      <created>1684210271514</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1684210271514</updated>
-    </task>
-    <option name="localTasksCounter" value="132" />
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -536,6 +540,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="use uri to load images" />
+    <MESSAGE value="use uri to load image from gallery" />
     <MESSAGE value="decode Bitmap only when saving item is saved" />
     <MESSAGE value="decode Bitmap only when item is being saved" />
     <MESSAGE value="define ImageView dimensions in dimen file" />
@@ -559,9 +565,7 @@
     <MESSAGE value="Reformat code" />
     <MESSAGE value="First save the image then the inventory in the db" />
     <MESSAGE value="Initial commit" />
-    <MESSAGE value="Update git ignore" />
-    <MESSAGE value="Add screenshot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add screenshot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
